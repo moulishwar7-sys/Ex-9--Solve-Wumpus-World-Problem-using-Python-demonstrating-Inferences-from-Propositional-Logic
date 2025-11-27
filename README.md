@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name:           </h3>
-<h3>Register Number            </h3>
+<h3>Name: Moulishwar G          </h3>
+<h3>Register Number  2305001020          </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
@@ -145,7 +145,8 @@ while(player):
 
 ## OUTPUT
 
-![439499566-74590332-6d8c-4623-92f1-08397aa1e854](https://github.com/user-attachments/assets/fb981510-0c4c-4e9c-b7c5-9dcbf9863e50)
+<img width="767" height="797" alt="Screenshot 2025-11-27 103418" src="https://github.com/user-attachments/assets/b9763aec-a86e-49a2-9b1d-6ca21ddd5171" />
+
 
 ## RESULT
 
